@@ -1,0 +1,27 @@
+links:
+  sheet: sheets.google.com/sheet_link
+  another: google.com
+
+whitelist:
+  channel:
+    - channel1: 923784923847923847
+    - channel ( Guildname ): 93487293487
+
+  guild:
+    server_name: server name
+
+  category:
+    category_name: 239487234344
+
+  user:
+    admin:
+      - user1: 123487236488786347
+      - user2: 123487236488786347
+      - user3: 123487236488786347
+      - user4: 123487236488786347
+    operator:
+      - user1: 123487236488786347
+      - user2: 123487236488786347
+# yaml syntax documentation:
+# https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
+

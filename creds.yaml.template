@@ -1,0 +1,4 @@
+username: username_text
+password: password_text
+# yaml syntax documentation:
+# https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
